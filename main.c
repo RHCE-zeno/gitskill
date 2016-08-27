@@ -3,7 +3,7 @@
 int main(void)
 {
     fprintf(stdout, "hello world\n");
-    dkjf
-    printf("dfdf");
+    dkfjdfdkjf
+    ddkfjprintf("dfdf");
     return 0;
 }
